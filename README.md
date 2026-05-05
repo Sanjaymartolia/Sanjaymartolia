@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjaymartolia
+- 👋 Hi, I’m @SanjaySingh
 - 👀 I’m interested in Data science, Machine learning, and Artificial intelligence.
 - 🌱 I’m currently learning Python, Data science, and Machine learning.
 - 💞️ I’m looking to collaborate on Open source Machine learning program.

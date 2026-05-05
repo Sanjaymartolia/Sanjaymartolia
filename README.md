@@ -43,23 +43,11 @@ const sanjay = {
 
 ![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjaymartolia&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333&bg_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaymartolia&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&background=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjaymartolia&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&background=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaymartolia&layout=compact&hide_border=true&title_color=2F80ED&text_color=333&bg_color=ffffff)
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-> 💡 *Pin your best repositories to showcase them here*
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔮 **[Project Name](#)** | Brief description of what it does and the problem it solves | `Python` `Pandas` `Scikit-learn` |
-| 📈 **[Project Name](#)** | Brief description of what it does and the problem it solves | `Python` `TensorFlow` `NumPy` |
-| 🤖 **[Project Name](#)** | Brief description of what it does and the problem it solves | `Python` `ML` `Data Viz` |
 
 ---
 

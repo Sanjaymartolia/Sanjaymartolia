@@ -41,11 +41,11 @@ const sanjay = {
 
 <div align="center">
 
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjaymartolia&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333&bg_color=ffffff)
+[![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjaymartolia&show_icons=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333&bg_color=ffffff&v=2)](https://github.com/Sanjaymartolia)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjaymartolia&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&background=ffffff)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Sanjaymartolia&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&background=ffffff&v=2)](https://github.com/Sanjaymartolia)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaymartolia&layout=compact&hide_border=true&title_color=2F80ED&text_color=333&bg_color=ffffff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaymartolia&layout=compact&hide_border=true&title_color=2F80ED&text_color=333&bg_color=ffffff&v=2)](https://github.com/Sanjaymartolia)
 
 </div>
 
